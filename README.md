@@ -23,26 +23,31 @@ O curso **Fundamentos do SQL Server** apresenta, de forma prática e objetiva, o
 ## 🧩 Conteúdo do Repositório
 
 ### 🟣 1. **Introdução ao SQL Server**
+
 - O que é SQL Server?
 - Instalação e configuração
 - Conceitos de banco de dados relacional
 
 ### 🟢 2. **Modelagem de Dados**
+
 - Entidades, relacionamentos e normalização
 - Criação de tabelas e constraints
 - Diagramas e boas práticas
 
 ### 🟡 3. **Consultas SQL Essenciais**
+
 - SELECT, INSERT, UPDATE, DELETE
 - Filtros, ordenação e paginação
 - Funções agregadas e agrupamentos
 
 ### 🔵 4. **Procedures, Views e Índices**
+
 - Criação e uso de procedures e views
 - Índices e performance
 - Parâmetros e segurança
 
 ### 🟠 5. **Desafios Práticos**
+
 - Exercícios e projetos hands-on
 - Scripts de exemplo e soluções comentadas
 - Dicas para evoluir no universo de bancos de dados
@@ -57,6 +62,7 @@ Capacitar devs .NET a dominar os fundamentos do SQL Server, aplicando soluções
 
 ## 📚 Referências e Links Úteis
 
+- [Acesse minhas anotações do curso no Notion](https://www.notion.so/Fundamentos-do-SQL-Server-2dd73de932038090921bf2c7f5e6b0ba?source=copy_link)
 - [Curso oficial na balta.io](https://balta.io)
 - [Documentação SQL Server](https://learn.microsoft.com/sql/)
 - [Documentação .NET](https://learn.microsoft.com/dotnet/)
@@ -74,7 +80,7 @@ Não! O curso é introdutório e pensado para quem está começando.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B2d3B3b2J0b2J4d3B2d3B3b2J0b2J4d3B2d3B3b2J0b2J4/g9582DNuQppxC/giphy.gif" width="120" alt="Robot dancing"/>
+  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="120" alt="Robot dancing"/>
 </p>
 
 <p align="center">
