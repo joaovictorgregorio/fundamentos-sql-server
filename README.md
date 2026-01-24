@@ -9,7 +9,7 @@
 <p align="center">
   <b>Repositório de estudos do curso oficial da <a href="https://balta.io">balta.io</a></b><br>
   <img src="https://img.shields.io/badge/.NET-SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver" />
-  <img src="https://img.shields.io/badge/balta.io-Orgulho%20de%20ser%20dev-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Orgulho%20de%20ser%20dev-blueviolet?style=for-the-badge" />
 </p>
 
 ---
@@ -78,10 +78,6 @@ Basta utilizar o SQL Server Management Studio ou Azure Data Studio, conectando-s
 Não! O curso é introdutório e pensado para quem está começando.
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="120" alt="Robot dancing"/>
-</p>
 
 <p align="center">
   <b>Feito com 💜 por João Victor Gregório da Silva <br>
