@@ -3,79 +3,61 @@
 </p>
 
 <h1 align="center">
-  🗄️🚀 Fundamentos do SQL Server
+  🗄️🚀 Anotações: Fundamentos do SQL Server
 </h1>
 
 <p align="center">
-  <b>Repositório de estudos do curso oficial da <a href="https://balta.io">balta.io</a></b><br>
+  <b>Repositório de anotações e arquivos do curso oficial da <a href="https://balta.io">balta.io</a></b><br>
   <img src="https://img.shields.io/badge/.NET-SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver" />
   <img src="https://img.shields.io/badge/Orgulho%20de%20ser%20dev-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎯 Sobre o Curso
+## 📝 Sobre este Repositório
 
-O curso **Fundamentos do SQL Server** apresenta, de forma prática e objetiva, os principais conceitos, comandos e técnicas para trabalhar com bancos de dados SQL Server em aplicações .NET. Aprenda a modelar, consultar e manipular dados de forma eficiente e segura!
+Este repositório reúne **anotações, exemplos de código e arquivos de estudo** do curso Fundamentos do SQL Server da balta.io.  
+O objetivo é servir como material de referência rápida para consultas futuras e reforço do aprendizado.
 
 ---
 
-## 🧩 Conteúdo do Repositório
+## 📒 Conteúdo das Anotações
 
-### 🟣 1. **Introdução ao SQL Server**
+- **Introdução ao SQL Server**  
+  O que é, instalação, configuração e conceitos de banco de dados relacional.
 
-- O que é SQL Server?
-- Instalação e configuração
-- Conceitos de banco de dados relacional
+- **Modelagem de Dados**  
+  Entidades, relacionamentos, normalização, criação de tabelas, constraints e boas práticas.
 
-### 🟢 2. **Modelagem de Dados**
+- **Consultas SQL Essenciais**  
+  Exemplos de SELECT, INSERT, UPDATE, DELETE, filtros, ordenação, paginação, funções agregadas e agrupamentos.
 
-- Entidades, relacionamentos e normalização
-- Criação de tabelas e constraints
-- Diagramas e boas práticas
+- **Procedures, Views e Índices**  
+  Criação e uso de procedures, views, índices, performance, parâmetros e segurança.
 
-### 🟡 3. **Consultas SQL Essenciais**
-
-- SELECT, INSERT, UPDATE, DELETE
-- Filtros, ordenação e paginação
-- Funções agregadas e agrupamentos
-
-### 🔵 4. **Procedures, Views e Índices**
-
-- Criação e uso de procedures e views
-- Índices e performance
-- Parâmetros e segurança
-
-### 🟠 5. **Desafios Práticos**
-
-- Exercícios e projetos hands-on
-- Scripts de exemplo e soluções comentadas
-- Dicas para evoluir no universo de bancos de dados
+- **Desafios Práticos**  
+  Exercícios, projetos hands-on, scripts de exemplo, soluções comentadas e dicas para evoluir.
 
 ---
 
 ## 🚀 Objetivo
 
-Capacitar devs .NET a dominar os fundamentos do SQL Server, aplicando soluções robustas e seguras em projetos reais, com o selo de qualidade balta.io!
+Servir como um guia rápido para quem deseja revisar ou consultar os principais conceitos e comandos do SQL Server, especialmente para aplicações .NET.
 
 ---
 
-## 📚 Referências e Links Úteis
+## 📚 Links Úteis
 
 - [Acesse minhas anotações do curso no Notion](https://www.notion.so/Fundamentos-do-SQL-Server-2dd73de932038090921bf2c7f5e6b0ba?source=copy_link)
-- [Curso oficial na balta.io](https://balta.io)
 - [Documentação SQL Server](https://learn.microsoft.com/sql/)
 - [Documentação .NET](https://learn.microsoft.com/dotnet/)
 
 ---
 
-## ❓ FAQ
+## 💡 Observação
 
-**Como rodar os scripts do curso?**  
-Basta utilizar o SQL Server Management Studio ou Azure Data Studio, conectando-se ao seu banco local ou em nuvem.
-
-**Preciso de experiência prévia?**  
-Não! O curso é introdutório e pensado para quem está começando.
+Este material é pessoal e voltado para consulta rápida.  
+Fique à vontade para explorar os arquivos, exemplos e anotações para reforçar seus estudos ou tirar dúvidas no futuro!
 
 ---
 
